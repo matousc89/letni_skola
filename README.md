@@ -2,13 +2,13 @@
 
 ## Den 1 - Základy programování
 
-[Základy Pythonu](zaklady_programovani.ipynb)
-[Příklady řešené v Pythonu](zaklady_programovani_priklady.ipynb)
+* [Základy Pythonu](zaklady_programovani.ipynb)
+* [Příklady řešené v Pythonu](zaklady_programovani_priklady.ipynb)
 
 ## Den 2 - Objektově orientované programování
 
-[Projekt - kontroler pro dice blackjack koth](blackjack_koth.ipynb)
-[Základy OOP](zaklady_OOP.ipynb)
+* [Projekt - kontroler pro dice blackjack koth](blackjack_koth.ipynb)
+* [Základy OOP](zaklady_OOP.ipynb)
 
 ## Den 3 - Výpočty, zobrazování dat a simulace
 
