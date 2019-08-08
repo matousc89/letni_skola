@@ -1,4 +1,17 @@
 import cv2
+"""
+1. What is pixel and which information it contains? (unit, RGB)
+2. What is image? (made of pixels, some king od mesh grid)
+3. RGB is too much information, grey scale is sometimes more useful.
+4. Inverting image is about changing of intensities it is always better to work with high intensity points as they may
+   represent the regions of interest.
+5. Background is problem, so we will remove it => subtracting images.
+6. There is some noise so image is variating a bit => threshold it.
+7. Now we should see details of interest, lets find contours.
+8. We are not interested in small contours as they do not correspond with dice dots, lets check the are of contours
+   and draw only the big areas.
+9. Count big areas = we know what is on dice. Problem solved. 
+"""
 
 
 # image acquisition and processing
@@ -30,7 +43,7 @@ while True:  # press q to quit
         print("new background obtained")  # print message
 
     elif pressed_key == ord("q"):  # quit
-        print("terminating....")  # print message
+        print("terminating....")  # print terminatingq message
         camera.release()  # stop camera stream
         cv2.destroyAllWindows()  # close all windows correctly
         break
