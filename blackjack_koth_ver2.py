@@ -191,7 +191,7 @@ def simulation(players, n, log):
         players = players[::-1]
     for p in players:
         print("{}\t{}".format(p.name, p.wallet))
-    output = "bettor_name, dealer_name, winner, loser, bet_size, call, bettor_value, dealer_value\n"
+    output = "bettor_name,dealer_name,winner,loser,bet_size,call,bettor_value,dealer_value\n"
     output += "\n".join([",".join(map(str, line)) for line in log])
     with open("data/output.csv", "w") as f:
         f.write(output)
