@@ -14,7 +14,7 @@
 
 
 ## Den 4 - Zpracování obrazu pomocí OpenCV
-* [Zpracování obrazu](zpracovani_obarzu.ipynb)
+* [Zpracování obrazu](zpracovani_obrazu.ipynb)
 
 ## Den 5 - Umělá inteligence
 
