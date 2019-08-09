@@ -12,8 +12,10 @@
 
 ## Den 3 - Výpočty, zobrazování dat a simulace
 
+* [Zpracování dat](zpracovani_dat.ipynb)
 
 ## Den 4 - Zpracování obrazu pomocí OpenCV
+
 * [Zpracování obrazu](zpracovani_obrazu.ipynb)
 
 ## Den 5 - Umělá inteligence
