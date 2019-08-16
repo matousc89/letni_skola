@@ -20,3 +20,17 @@
 
 ## Den 5 - Umělá inteligence
 
+### Výsledky:
+
+1. Adela 	 10
+1. Tomas 	 8
+1. Gary 	 7
+1. Marketa 	 7
+1. Julie 	 6
+1. Alex 	 6
+1. Julia 	 5
+1. filip 	 5
+1. better_player 	 4
+1. Madra 	 4
+1. dummy_player 	 3
+1. Adam 	 1
